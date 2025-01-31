@@ -1,0 +1,1024 @@
+{
+    "iterations": {
+        "0. 2025 Challenge Run/Transport/Trash.spz2bp": {
+            "name": "Trash",
+            "path": "0. 2025 Challenge Run/Transport/Trash.spz2bp",
+            "iteration": 1
+        },
+        "0. 2025 Challenge Run/Transport/1x1 8x8 Shapes & Fluids Intersection.spz2bp": {
+            "name": "1x1 8x8 Shapes & Fluids Intersection",
+            "path": "0. 2025 Challenge Run/Transport/1x1 8x8 Shapes & Fluids Intersection.spz2bp",
+            "iteration": 1
+        },
+        "0. 2025 Challenge Run/Archive/1x1 4x Painter v1.0.spz2bp": {
+            "name": "1x1 4x Painter v1.0",
+            "path": "0. 2025 Challenge Run/Archive/1x1 4x Painter v1.0.spz2bp",
+            "iteration": 1
+        },
+        "0. 2025 Challenge Run/Archive/1x1 4x 180 Rotator.spz2bp": {
+            "name": "1x1 4x 180 Rotator",
+            "path": "0. 2025 Challenge Run/Archive/1x1 4x 180 Rotator.spz2bp",
+            "iteration": 1
+        },
+        "0. 2025 Challenge Run/Archive/1x1 4x Diagonal Cutter.spz2bp": {
+            "name": "1x1 4x Diagonal Cutter",
+            "path": "0. 2025 Challenge Run/Archive/1x1 4x Diagonal Cutter.spz2bp",
+            "iteration": 1
+        },
+        "0. 2025 Challenge Run/Archive/1x1 4x Halves to Diagonals.spz2bp": {
+            "name": "1x1 4x Halves to Diagonals",
+            "path": "0. 2025 Challenge Run/Archive/1x1 4x Halves to Diagonals.spz2bp",
+            "iteration": 1
+        },
+        "0. 2025 Challenge Run/Archive/1x1 4x Top Left Quarter Cutter.spz2bp": {
+            "name": "1x1 4x Top Left Quarter Cutter",
+            "path": "0. 2025 Challenge Run/Archive/1x1 4x Top Left Quarter Cutter.spz2bp",
+            "iteration": 1
+        },
+        "0. 2025 Challenge Run/Archive/1x2 4x Splitter.spz2bp": {
+            "name": "1x2 4x Splitter",
+            "path": "0. 2025 Challenge Run/Archive/1x2 4x Splitter.spz2bp",
+            "iteration": 1
+        },
+        "0. 2025 Challenge Run/Archive/4x Loading Station.spz2bp": {
+            "name": "4x Loading Station",
+            "path": "0. 2025 Challenge Run/Archive/4x Loading Station.spz2bp",
+            "iteration": 1
+        },
+        "0. 2025 Challenge Run/Archive/1x1 4x Painter.spz2bp": {
+            "name": "1x1 4x Painter",
+            "path": "0. 2025 Challenge Run/Archive/1x1 4x Painter.spz2bp",
+            "iteration": 1
+        },
+        "0. 2025 Challenge Run/Archive/1x1 4x Diagonals to Halves.spz2bp": {
+            "name": "1x1 4x Diagonals to Halves",
+            "path": "0. 2025 Challenge Run/Archive/1x1 4x Diagonals to Halves.spz2bp",
+            "iteration": 1
+        },
+        "0. 2025 Challenge Run/Archive/1x1 4x 90 CW Rotator.spz2bp": {
+            "name": "1x1 4x 90 CW Rotator",
+            "path": "0. 2025 Challenge Run/Archive/1x1 4x 90 CW Rotator.spz2bp",
+            "iteration": 1
+        },
+        "0. 2025 Challenge Run/Archive/1x2 8x Color Mixer (8 In 8 Out).spz2bp": {
+            "name": "1x2 8x Color Mixer (8 In 8 Out)",
+            "path": "0. 2025 Challenge Run/Archive/1x2 8x Color Mixer (8 In 8 Out).spz2bp",
+            "iteration": 1
+        },
+        "0. 2025 Challenge Run/Archive/1x1 4x4 Color Mixer (4x4 In 8 Out).spz2bp": {
+            "name": "1x1 4x4 Color Mixer (4x4 In 8 Out)",
+            "path": "0. 2025 Challenge Run/Archive/1x1 4x4 Color Mixer (4x4 In 8 Out).spz2bp",
+            "iteration": 1
+        },
+        "0. 2025 Challenge Run/Archive/1x1 4x4 Shapes & Fluids Intersection.spz2bp": {
+            "name": "1x1 4x4 Shapes & Fluids Intersection",
+            "path": "0. 2025 Challenge Run/Archive/1x1 4x4 Shapes & Fluids Intersection.spz2bp",
+            "iteration": 1
+        },
+        "0. 2025 Challenge Run/Archive/4x Direct Loading Stations.spz2bp": {
+            "name": "4x Direct Loading Stations",
+            "path": "0. 2025 Challenge Run/Archive/4x Direct Loading Stations.spz2bp",
+            "iteration": 1
+        },
+        "0. 2025 Challenge Run/Archive/1x1 8x Color Mixer (8 In 8 Out).spz2bp": {
+            "name": "1x1 8x Color Mixer (8 In 8 Out)",
+            "path": "0. 2025 Challenge Run/Archive/1x1 8x Color Mixer (8 In 8 Out).spz2bp",
+            "iteration": 1
+        },
+        "0. 2025 Challenge Run/Archive/2x3 8x8 Color Mixer (Outputs 16x Mixed Colors).spz2bp": {
+            "name": "2x3 8x8 Color Mixer (Outputs 16x Mixed Colors)",
+            "path": "0. 2025 Challenge Run/Archive/2x3 8x8 Color Mixer (Outputs 16x Mixed Colors).spz2bp",
+            "iteration": 1
+        },
+        "0. 2025 Challenge Run/Archive/4x Painting+ (Unloading & Extracting & Loading).spz2bp": {
+            "name": "4x Painting+ (Unloading & Extracting & Loading)",
+            "path": "0. 2025 Challenge Run/Archive/4x Painting+ (Unloading & Extracting & Loading).spz2bp",
+            "iteration": 1
+        },
+        "0. 2025 Challenge Run/Archive/1x1 4x Stepper Upper.spz2bp": {
+            "name": "1x1 4x Stepper Upper",
+            "path": "0. 2025 Challenge Run/Archive/1x1 4x Stepper Upper.spz2bp",
+            "iteration": 1
+        },
+        "0. 2025 Challenge Run/Archive/1x1 4x 90 CCW Rotator.spz2bp": {
+            "name": "1x1 4x 90 CCW Rotator",
+            "path": "0. 2025 Challenge Run/Archive/1x1 4x 90 CCW Rotator.spz2bp",
+            "iteration": 1
+        },
+        "0. 2025 Challenge Run/Archive/4x Unloading Station.spz2bp": {
+            "name": "4x Unloading Station",
+            "path": "0. 2025 Challenge Run/Archive/4x Unloading Station.spz2bp",
+            "iteration": 1
+        },
+        "0. 2025 Challenge Run/Archive/4x Fluid Extraction & Loading.spz2bp": {
+            "name": "4x Fluid Extraction & Loading",
+            "path": "0. 2025 Challenge Run/Archive/4x Fluid Extraction & Loading.spz2bp",
+            "iteration": 1
+        },
+        "0. 2025 Challenge Run/Archive/4x Shapes Extraction & Loading Site.spz2bp": {
+            "name": "4x Shapes Extraction & Loading Site",
+            "path": "0. 2025 Challenge Run/Archive/4x Shapes Extraction & Loading Site.spz2bp",
+            "iteration": 1
+        },
+        "0. 2025 Challenge Run/Archive/1x1 4x4 Stacker.spz2bp": {
+            "name": "1x1 4x4 Stacker",
+            "path": "0. 2025 Challenge Run/Archive/1x1 4x4 Stacker.spz2bp",
+            "iteration": 1
+        },
+        "0. 2025 Challenge Run/Archive/1x2 8x Stacker v1.0.spz2bp": {
+            "name": "1x2 8x Stacker v1.0",
+            "path": "0. 2025 Challenge Run/Archive/1x2 8x Stacker v1.0.spz2bp",
+            "iteration": 1
+        },
+        "0. 2025 Challenge Run/Archive/1x1 4x Full Halves to Full Diagonals.spz2bp": {
+            "name": "1x1 4x Full Halves to Full Diagonals",
+            "path": "0. 2025 Challenge Run/Archive/1x1 4x Full Halves to Full Diagonals.spz2bp",
+            "iteration": 1
+        },
+        "0. 2025 Challenge Run/Archive/1x1 4x Stepper Downer.spz2bp": {
+            "name": "1x1 4x Stepper Downer",
+            "path": "0. 2025 Challenge Run/Archive/1x1 4x Stepper Downer.spz2bp",
+            "iteration": 1
+        },
+        "0. 2025 Challenge Run/Archive/4x Extraction+ (Loading).spz2bp": {
+            "name": "4x Extraction+ (Loading)",
+            "path": "0. 2025 Challenge Run/Archive/4x Extraction+ (Loading).spz2bp",
+            "iteration": 1
+        },
+        "0. 2025 Challenge Run/Archive/1x1 4x Half Destroyers (West).spz2bp": {
+            "name": "1x1 4x Half Destroyers (West)",
+            "path": "0. 2025 Challenge Run/Archive/1x1 4x Half Destroyers (West).spz2bp",
+            "iteration": 1
+        },
+        "0. 2025 Challenge Run/Archive/4x Stacking+ (Unloading & Loading).spz2bp": {
+            "name": "4x Stacking+ (Unloading & Loading)",
+            "path": "0. 2025 Challenge Run/Archive/4x Stacking+ (Unloading & Loading).spz2bp",
+            "iteration": 1
+        },
+        "0. 2025 Challenge Run/Machines/1x2 Three Quarters Cutter (Top Left).spz2bp": {
+            "name": "1x2 Three Quarters Cutter (Top Left)",
+            "path": "0. 2025 Challenge Run/Machines/1x2 Three Quarters Cutter (Top Left).spz2bp",
+            "iteration": 1
+        },
+        "0. 2025 Challenge Run/Machines/1x2 8x8 Stacker.spz2bp": {
+            "name": "1x2 8x8 Stacker",
+            "path": "0. 2025 Challenge Run/Machines/1x2 8x8 Stacker.spz2bp",
+            "iteration": 1
+        },
+        "0. 2025 Challenge Run/Machines/1x2 8x Full Halves to Full Diagonals.spz2bp": {
+            "name": "1x2 8x Full Halves to Full Diagonals",
+            "path": "0. 2025 Challenge Run/Machines/1x2 8x Full Halves to Full Diagonals.spz2bp",
+            "iteration": 1
+        },
+        "0. 2025 Challenge Run/Transport/Shape/1x1 8x 90 CW Rotator.spz2bp": {
+            "name": "1x1 8x 90 CW Rotator",
+            "path": "0. 2025 Challenge Run/Transport/Shape/1x1 8x 90 CW Rotator.spz2bp",
+            "iteration": 1
+        },
+        "0. 2025 Challenge Run/Transport/Shape/1x1 8x 180 Rotator.spz2bp": {
+            "name": "1x1 8x 180 Rotator",
+            "path": "0. 2025 Challenge Run/Transport/Shape/1x1 8x 180 Rotator.spz2bp",
+            "iteration": 1
+        },
+        "0. 2025 Challenge Run/Transport/Shape/1x1 8x Stepper Downer.spz2bp": {
+            "name": "1x1 8x Stepper Downer",
+            "path": "0. 2025 Challenge Run/Transport/Shape/1x1 8x Stepper Downer.spz2bp",
+            "iteration": 1
+        },
+        "0. 2025 Challenge Run/Transport/Shape/1x1 8x8 Shapes Intersection.spz2bp": {
+            "name": "1x1 8x8 Shapes Intersection",
+            "path": "0. 2025 Challenge Run/Transport/Shape/1x1 8x8 Shapes Intersection.spz2bp",
+            "iteration": 1
+        },
+        "0. 2025 Challenge Run/Transport/Shape/1x1 8x 90 CCW Rotator.spz2bp": {
+            "name": "1x1 8x 90 CCW Rotator",
+            "path": "0. 2025 Challenge Run/Transport/Shape/1x1 8x 90 CCW Rotator.spz2bp",
+            "iteration": 1
+        },
+        "0. 2025 Challenge Run/Transport/Shape/1x1 8x Stepper Upper.spz2bp": {
+            "name": "1x1 8x Stepper Upper",
+            "path": "0. 2025 Challenge Run/Transport/Shape/1x1 8x Stepper Upper.spz2bp",
+            "iteration": 1
+        },
+        "0. 2025 Challenge Run/Transport/Fluid/2x1 Fluid Intersection (Side To Top).spz2bp": {
+            "name": "2x1 Fluid Intersection (Side To Top)",
+            "path": "0. 2025 Challenge Run/Transport/Fluid/2x1 Fluid Intersection (Side To Top).spz2bp",
+            "iteration": 1
+        },
+        "0. 2025 Challenge Run/Transport/Fluid/1x1 8x8 Fluid Intersection.spz2bp": {
+            "name": "1x1 8x8 Fluid Intersection",
+            "path": "0. 2025 Challenge Run/Transport/Fluid/1x1 8x8 Fluid Intersection.spz2bp",
+            "iteration": 1
+        },
+        "0. 2025 Challenge Run/Transport/Fluid/2x1 Fluid Intersection (Bottom To Top).spz2bp": {
+            "name": "2x1 Fluid Intersection (Bottom To Top)",
+            "path": "0. 2025 Challenge Run/Transport/Fluid/2x1 Fluid Intersection (Bottom To Top).spz2bp",
+            "iteration": 1
+        },
+        "0. 2025 Challenge Run/Machines/Misc/1x2 Development Platform+ (2x8 w_ Extraction & Processing & Trashing).spz2bp": {
+            "name": "1x2 Development Platform+ (2x8 w_ Extraction & Processing & Trashing)",
+            "path": "0. 2025 Challenge Run/Machines/Misc/1x2 Development Platform+ (2x8 w_ Extraction & Processing & Trashing).spz2bp",
+            "iteration": 1
+        },
+        "0. 2025 Challenge Run/Machines/1 - Quarters/1x2 8x Quarter Cutter (Top Right).spz2bp": {
+            "name": "1x2 8x Quarter Cutter (Top Right)",
+            "path": "0. 2025 Challenge Run/Machines/1 - Quarters/1x2 8x Quarter Cutter (Top Right).spz2bp",
+            "iteration": 1
+        },
+        "0. 2025 Challenge Run/Machines/1 - Quarters/1x2 8x Quarter Cutter (Bottom Right).spz2bp": {
+            "name": "1x2 8x Quarter Cutter (Bottom Right)",
+            "path": "0. 2025 Challenge Run/Machines/1 - Quarters/1x2 8x Quarter Cutter (Bottom Right).spz2bp",
+            "iteration": 1
+        },
+        "0. 2025 Challenge Run/Machines/1 - Quarters/1x2 8x Quarter Cutter (Top Left).spz2bp": {
+            "name": "1x2 8x Quarter Cutter (Top Left)",
+            "path": "0. 2025 Challenge Run/Machines/1 - Quarters/1x2 8x Quarter Cutter (Top Left).spz2bp",
+            "iteration": 1
+        },
+        "0. 2025 Challenge Run/Machines/1 - Quarters/1x2 8x Quarter Cutter (Bottom Left).spz2bp": {
+            "name": "1x2 8x Quarter Cutter (Bottom Left)",
+            "path": "0. 2025 Challenge Run/Machines/1 - Quarters/1x2 8x Quarter Cutter (Bottom Left).spz2bp",
+            "iteration": 1
+        },
+        "0. 2025 Challenge Run/Machines/Fluid/1x1 8x Fluid Storage Facility (14 Minutes Buffer).spz2bp": {
+            "name": "1x1 8x Fluid Storage Facility (14 Minutes Buffer)",
+            "path": "0. 2025 Challenge Run/Machines/Fluid/1x1 8x Fluid Storage Facility (14 Minutes Buffer).spz2bp",
+            "iteration": 1
+        },
+        "0. 2025 Challenge Run/Machines/Fluid/2x1 8x8 Color Mixer (16 Output).spz2bp": {
+            "name": "2x1 8x8 Color Mixer (16 Output)",
+            "path": "0. 2025 Challenge Run/Machines/Fluid/2x1 8x8 Color Mixer (16 Output).spz2bp",
+            "iteration": 1
+        },
+        "0. 2025 Challenge Run/Machines/Fluid/3x5 Conditional Painter WIP.spz2bp": {
+            "name": "3x5 Conditional Painter WIP",
+            "path": "0. 2025 Challenge Run/Machines/Fluid/3x5 Conditional Painter WIP.spz2bp",
+            "iteration": 1
+        },
+        "0. 2025 Challenge Run/Machines/Fluid/White Color Mixing & Painting Station (ABCA).spz2bp": {
+            "name": "White Color Mixing & Painting Station (ABCA)",
+            "path": "0. 2025 Challenge Run/Machines/Fluid/White Color Mixing & Painting Station (ABCA).spz2bp",
+            "iteration": 1
+        },
+        "0. 2025 Challenge Run/Machines/Fluid/1x2 8x8 Painter.spz2bp": {
+            "name": "1x2 8x8 Painter",
+            "path": "0. 2025 Challenge Run/Machines/Fluid/1x2 8x8 Painter.spz2bp",
+            "iteration": 1
+        },
+        "0. 2025 Challenge Run/Machines/Fluid/1x2 8x Fluid Storage Facility (38.5 Minutes Buffer).spz2bp": {
+            "name": "1x2 8x Fluid Storage Facility (38.5 Minutes Buffer)",
+            "path": "0. 2025 Challenge Run/Machines/Fluid/1x2 8x Fluid Storage Facility (38.5 Minutes Buffer).spz2bp",
+            "iteration": 1
+        },
+        "0. 2025 Challenge Run/Machines/3 - Three Quarters/1x2 Three Quarters Cutter (Cutting Bottom Right).spz2bp": {
+            "name": "1x2 Three Quarters Cutter (Cutting Bottom Right)",
+            "path": "0. 2025 Challenge Run/Machines/3 - Three Quarters/1x2 Three Quarters Cutter (Cutting Bottom Right).spz2bp",
+            "iteration": 1
+        },
+        "0. 2025 Challenge Run/Machines/3 - Three Quarters/1x2 Three Quarters Cutter (Cutting Top Left).spz2bp": {
+            "name": "1x2 Three Quarters Cutter (Cutting Top Left)",
+            "path": "0. 2025 Challenge Run/Machines/3 - Three Quarters/1x2 Three Quarters Cutter (Cutting Top Left).spz2bp",
+            "iteration": 1
+        },
+        "0. 2025 Challenge Run/Machines/3 - Three Quarters/1x2 Three Quarters Cutter (Cutting Bottom Left).spz2bp": {
+            "name": "1x2 Three Quarters Cutter (Cutting Bottom Left)",
+            "path": "0. 2025 Challenge Run/Machines/3 - Three Quarters/1x2 Three Quarters Cutter (Cutting Bottom Left).spz2bp",
+            "iteration": 1
+        },
+        "0. 2025 Challenge Run/Machines/3 - Three Quarters/1x2 Three Quarters Cutter (Cutting Top Right).spz2bp": {
+            "name": "1x2 Three Quarters Cutter (Cutting Top Right)",
+            "path": "0. 2025 Challenge Run/Machines/3 - Three Quarters/1x2 Three Quarters Cutter (Cutting Top Right).spz2bp",
+            "iteration": 1
+        },
+        "0. 2025 Challenge Run/Machines/2 - Diagonals/1x2 8x Diagonal Cutter (NE + SW).spz2bp": {
+            "name": "1x2 8x Diagonal Cutter (NE + SW)",
+            "path": "0. 2025 Challenge Run/Machines/2 - Diagonals/1x2 8x Diagonal Cutter (NE + SW).spz2bp",
+            "iteration": 1
+        },
+        "0. 2025 Challenge Run/Machines/2 - Diagonals/1x2 8x Diagonal Cutter (SE + NW).spz2bp": {
+            "name": "1x2 8x Diagonal Cutter (SE + NW)",
+            "path": "0. 2025 Challenge Run/Machines/2 - Diagonals/1x2 8x Diagonal Cutter (SE + NW).spz2bp",
+            "iteration": 1
+        },
+        "0. 2025 Challenge Run/Machines/2 - Halves/1x2 8x Cutter (East - West Split & North - East Output).spz2bp": {
+            "name": "1x2 8x Cutter (East - West Split & North - East Output)",
+            "path": "0. 2025 Challenge Run/Machines/2 - Halves/1x2 8x Cutter (East - West Split & North - East Output).spz2bp",
+            "iteration": 1
+        },
+        "0. 2025 Challenge Run/Machines/2 - Halves/1x2 8x Cutter (North - South Split).spz2bp": {
+            "name": "1x2 8x Cutter (North - South Split)",
+            "path": "0. 2025 Challenge Run/Machines/2 - Halves/1x2 8x Cutter (North - South Split).spz2bp",
+            "iteration": 1
+        },
+        "0. 2025 Challenge Run/Machines/2 - Halves/1x1 8x Half Destroyer (North).spz2bp": {
+            "name": "1x1 8x Half Destroyer (North)",
+            "path": "0. 2025 Challenge Run/Machines/2 - Halves/1x1 8x Half Destroyer (North).spz2bp",
+            "iteration": 1
+        },
+        "0. 2025 Challenge Run/Machines/2 - Halves/1x2 8x Cutter (East - West Split & Output).spz2bp": {
+            "name": "1x2 8x Cutter (East - West Split & Output)",
+            "path": "0. 2025 Challenge Run/Machines/2 - Halves/1x2 8x Cutter (East - West Split & Output).spz2bp",
+            "iteration": 1
+        },
+        "0. 2025 Challenge Run/Machines/2 - Halves/1x1 8x Half Destroyer (East).spz2bp": {
+            "name": "1x1 8x Half Destroyer (East)",
+            "path": "0. 2025 Challenge Run/Machines/2 - Halves/1x1 8x Half Destroyer (East).spz2bp",
+            "iteration": 1
+        },
+        "0. 2025 Challenge Run/Machines/2 - Halves/1x1 8x Half Destroyer (South).spz2bp": {
+            "name": "1x1 8x Half Destroyer (South)",
+            "path": "0. 2025 Challenge Run/Machines/2 - Halves/1x1 8x Half Destroyer (South).spz2bp",
+            "iteration": 1
+        },
+        "0. 2025 Challenge Run/Machines/2 - Halves/1x1 8x Half Destroyer (West).spz2bp": {
+            "name": "1x1 8x Half Destroyer (West)",
+            "path": "0. 2025 Challenge Run/Machines/2 - Halves/1x1 8x Half Destroyer (West).spz2bp",
+            "iteration": 1
+        },
+        "0. 2025 Challenge Run/Extractors/Shape/2x5 8x Merged Extended Extractors.spz2bp": {
+            "name": "2x5 8x Merged Extended Extractors",
+            "path": "0. 2025 Challenge Run/Extractors/Shape/2x5 8x Merged Extended Extractors.spz2bp",
+            "iteration": 1
+        },
+        "0. 2025 Challenge Run/Extractors/Shape/1x1 4x Extractor.spz2bp": {
+            "name": "1x1 4x Extractor",
+            "path": "0. 2025 Challenge Run/Extractors/Shape/1x1 4x Extractor.spz2bp",
+            "iteration": 1
+        },
+        "0. 2025 Challenge Run/Extractors/Shape/1x4 4x Extended Extractors.spz2bp": {
+            "name": "1x4 4x Extended Extractors",
+            "path": "0. 2025 Challenge Run/Extractors/Shape/1x4 4x Extended Extractors.spz2bp",
+            "iteration": 1
+        },
+        "0. 2025 Challenge Run/Extractors/Fluid/1x1 4x Fluid Extractor.spz2bp": {
+            "name": "1x1 4x Fluid Extractor",
+            "path": "0. 2025 Challenge Run/Extractors/Fluid/1x1 4x Fluid Extractor.spz2bp",
+            "iteration": 1
+        },
+        "0. 2025 Challenge Run/Extractors/Fluid/1x4 4x Extended Fluid Extractors.spz2bp": {
+            "name": "1x4 4x Extended Fluid Extractors",
+            "path": "0. 2025 Challenge Run/Extractors/Fluid/1x4 4x Extended Fluid Extractors.spz2bp",
+            "iteration": 1
+        },
+        "0. 2025 Challenge Run/Extractors/Fluid/2x5 8x Merged Extended Fluid Extractors.spz2bp": {
+            "name": "2x5 8x Merged Extended Fluid Extractors",
+            "path": "0. 2025 Challenge Run/Extractors/Fluid/2x5 8x Merged Extended Fluid Extractors.spz2bp",
+            "iteration": 1
+        },
+        "0. 2025 Challenge Run/Trains/Shape/4x Shape Loading Station.spz2bp": {
+            "name": "4x Shape Loading Station",
+            "path": "0. 2025 Challenge Run/Trains/Shape/4x Shape Loading Station.spz2bp",
+            "iteration": 1
+        },
+        "0. 2025 Challenge Run/Trains/Shape/4x Shape Unloading Station.spz2bp": {
+            "name": "4x Shape Unloading Station",
+            "path": "0. 2025 Challenge Run/Trains/Shape/4x Shape Unloading Station.spz2bp",
+            "iteration": 1
+        },
+        "0. 2025 Challenge Run/Trains/Shape/4x Staggered Shape Loading Stations.spz2bp": {
+            "name": "4x Staggered Shape Loading Stations",
+            "path": "0. 2025 Challenge Run/Trains/Shape/4x Staggered Shape Loading Stations.spz2bp",
+            "iteration": 1
+        },
+        "0. 2025 Challenge Run/Trains/Processing Facilities (Machines)/White Color Mixer Train Station.spz2bp": {
+            "name": "White Color Mixer Train Station",
+            "path": "0. 2025 Challenge Run/Trains/Processing Facilities (Machines)/White Color Mixer Train Station.spz2bp",
+            "iteration": 1
+        },
+        "0. 2025 Challenge Run/Trains/Fluid/4x Staggered Fluid Loading Stations.spz2bp": {
+            "name": "4x Staggered Fluid Loading Stations",
+            "path": "0. 2025 Challenge Run/Trains/Fluid/4x Staggered Fluid Loading Stations.spz2bp",
+            "iteration": 1
+        },
+        "0. 2025 Challenge Run/Trains/Fluid/8x Fluid Unloading Station.spz2bp": {
+            "name": "8x Fluid Unloading Station",
+            "path": "0. 2025 Challenge Run/Trains/Fluid/8x Fluid Unloading Station.spz2bp",
+            "iteration": 1
+        },
+        "0. 2025 Challenge Run/Trains/Fluid/4x Fluid Loading Station.spz2bp": {
+            "name": "4x Fluid Loading Station",
+            "path": "0. 2025 Challenge Run/Trains/Fluid/4x Fluid Loading Station.spz2bp",
+            "iteration": 1
+        },
+        "0. 2025 Challenge Run/Trains/Fluid/4x Staggered Fluid Unloading Stations.spz2bp": {
+            "name": "4x Staggered Fluid Unloading Stations",
+            "path": "0. 2025 Challenge Run/Trains/Fluid/4x Staggered Fluid Unloading Stations.spz2bp",
+            "iteration": 1
+        },
+        "0. 2025 Challenge Run/Trains/Fluid/4+4 Twin Color Fluid Transfer Station (Sequential - AAAABBBB).spz2bp": {
+            "name": "4+4 Twin Color Fluid Transfer Station (Sequential - AAAABBBB)",
+            "path": "0. 2025 Challenge Run/Trains/Fluid/4+4 Twin Color Fluid Transfer Station (Sequential - AAAABBBB).spz2bp",
+            "iteration": 1
+        },
+        "0. 2025 Challenge Run/Trains/Fluid/4+4 Twin Color Fluid Transfer Station (Interlaced - ABABABAB).spz2bp": {
+            "name": "4+4 Twin Color Fluid Transfer Station (Interlaced - ABABABAB)",
+            "path": "0. 2025 Challenge Run/Trains/Fluid/4+4 Twin Color Fluid Transfer Station (Interlaced - ABABABAB).spz2bp",
+            "iteration": 1
+        },
+        "0. 2025 Challenge Run/Trains/Fluid/4x Staggered Balanced Fluid Loading Station.spz2bp": {
+            "name": "4x Staggered Balanced Fluid Loading Station",
+            "path": "0. 2025 Challenge Run/Trains/Fluid/4x Staggered Balanced Fluid Loading Station.spz2bp",
+            "iteration": 1
+        },
+        "0. 2025 Challenge Run/Trains/Fluid/4x Fluid Unloading Station.spz2bp": {
+            "name": "4x Fluid Unloading Station",
+            "path": "0. 2025 Challenge Run/Trains/Fluid/4x Fluid Unloading Station.spz2bp",
+            "iteration": 1
+        },
+        "0. 2025 Challenge Run/Trains/Mega Structures/Main Fluids Warehouse.spz2bp": {
+            "name": "Main Fluids Warehouse",
+            "path": "0. 2025 Challenge Run/Trains/Mega Structures/Main Fluids Warehouse.spz2bp",
+            "iteration": 1
+        },
+        "0. 2025 Challenge Run/Trains/Mega Structures/Main Shapes Consolidation - v1 - Nilaus.spz2bp": {
+            "name": "Main Shapes Consolidation - v1 - Nilaus",
+            "path": "0. 2025 Challenge Run/Trains/Mega Structures/Main Shapes Consolidation - v1 - Nilaus.spz2bp",
+            "iteration": 1
+        },
+        "0. 2025 Challenge Run/Trains/Mega Structures/Mixing Station WIP.spz2bp": {
+            "name": "Mixing Station WIP",
+            "path": "0. 2025 Challenge Run/Trains/Mega Structures/Mixing Station WIP.spz2bp",
+            "iteration": 1
+        },
+        "0. 2025 Challenge Run/Trains/Mega Structures/Main Shapes Consolidation v2.spz2bp": {
+            "name": "Main Shapes Consolidation v2",
+            "path": "0. 2025 Challenge Run/Trains/Mega Structures/Main Shapes Consolidation v2.spz2bp",
+            "iteration": 1
+        },
+        "0. 2025 Challenge Run/Trains/Mega Structures/Shape Development Site.spz2bp": {
+            "name": "Shape Development Site",
+            "path": "0. 2025 Challenge Run/Trains/Mega Structures/Shape Development Site.spz2bp",
+            "iteration": 1
+        },
+        "0. 2025 Challenge Run/Trains/Train Parts/3x Green Locomotives.spz2bp": {
+            "name": "3x Green Locomotives",
+            "path": "0. 2025 Challenge Run/Trains/Train Parts/3x Green Locomotives.spz2bp",
+            "iteration": 1
+        },
+        "0. 2025 Challenge Run/Trains/Train Parts/3x4 Shape Wagons.spz2bp": {
+            "name": "3x4 Shape Wagons",
+            "path": "0. 2025 Challenge Run/Trains/Train Parts/3x4 Shape Wagons.spz2bp",
+            "iteration": 1
+        },
+        "0. 2025 Challenge Run/Trains/Train Parts/3x Red Locomotives.spz2bp": {
+            "name": "3x Red Locomotives",
+            "path": "0. 2025 Challenge Run/Trains/Train Parts/3x Red Locomotives.spz2bp",
+            "iteration": 1
+        },
+        "0. 2025 Challenge Run/Trains/Train Parts/3x White Locomotives.spz2bp": {
+            "name": "3x White Locomotives",
+            "path": "0. 2025 Challenge Run/Trains/Train Parts/3x White Locomotives.spz2bp",
+            "iteration": 1
+        },
+        "0. 2025 Challenge Run/Trains/Train Parts/3x Blue Locomotives.spz2bp": {
+            "name": "3x Blue Locomotives",
+            "path": "0. 2025 Challenge Run/Trains/Train Parts/3x Blue Locomotives.spz2bp",
+            "iteration": 1
+        },
+        "0. 2025 Challenge Run/Trains/Train Parts/Rail 4x Super Chunks.spz2bp": {
+            "name": "Rail 4x Super Chunks",
+            "path": "0. 2025 Challenge Run/Trains/Train Parts/Rail 4x Super Chunks.spz2bp",
+            "iteration": 1
+        },
+        "0. 2025 Challenge Run/Trains/Train Parts/3x4 Fluid Wagons.spz2bp": {
+            "name": "3x4 Fluid Wagons",
+            "path": "0. 2025 Challenge Run/Trains/Train Parts/3x4 Fluid Wagons.spz2bp",
+            "iteration": 1
+        },
+        "Z. Archive/Platforms v2/Words/Belts.spz2bp": {
+            "name": "Belts",
+            "path": "Z. Archive/Platforms v2/Words/Belts.spz2bp",
+            "iteration": 1
+        },
+        "Z. Archive/Platforms v2/Alphabets/Q.spz2bp": {
+            "name": "Q",
+            "path": "Z. Archive/Platforms v2/Alphabets/Q.spz2bp",
+            "iteration": 1
+        },
+        "Z. Archive/Platforms v2/Alphabets/E.spz2bp": {
+            "name": "E",
+            "path": "Z. Archive/Platforms v2/Alphabets/E.spz2bp",
+            "iteration": 1
+        },
+        "Z. Archive/Platforms v2/Alphabets/I.spz2bp": {
+            "name": "I",
+            "path": "Z. Archive/Platforms v2/Alphabets/I.spz2bp",
+            "iteration": 1
+        },
+        "Z. Archive/Platforms v2/Alphabets/S.spz2bp": {
+            "name": "S",
+            "path": "Z. Archive/Platforms v2/Alphabets/S.spz2bp",
+            "iteration": 1
+        },
+        "Z. Archive/Platforms v2/Alphabets/K.spz2bp": {
+            "name": "K",
+            "path": "Z. Archive/Platforms v2/Alphabets/K.spz2bp",
+            "iteration": 1
+        },
+        "Z. Archive/Platforms v2/Alphabets/G.spz2bp": {
+            "name": "G",
+            "path": "Z. Archive/Platforms v2/Alphabets/G.spz2bp",
+            "iteration": 1
+        },
+        "Z. Archive/Platforms v2/Alphabets/C.spz2bp": {
+            "name": "C",
+            "path": "Z. Archive/Platforms v2/Alphabets/C.spz2bp",
+            "iteration": 1
+        },
+        "Z. Archive/Platforms v2/Alphabets/O.spz2bp": {
+            "name": "O",
+            "path": "Z. Archive/Platforms v2/Alphabets/O.spz2bp",
+            "iteration": 1
+        },
+        "Z. Archive/Platforms v2/Alphabets/W.spz2bp": {
+            "name": "W",
+            "path": "Z. Archive/Platforms v2/Alphabets/W.spz2bp",
+            "iteration": 1
+        },
+        "Z. Archive/Platforms v2/Alphabets/M.spz2bp": {
+            "name": "M",
+            "path": "Z. Archive/Platforms v2/Alphabets/M.spz2bp",
+            "iteration": 1
+        },
+        "Z. Archive/Platforms v2/Alphabets/A.spz2bp": {
+            "name": "A",
+            "path": "Z. Archive/Platforms v2/Alphabets/A.spz2bp",
+            "iteration": 1
+        },
+        "Z. Archive/Platforms v2/Alphabets/Y.spz2bp": {
+            "name": "Y",
+            "path": "Z. Archive/Platforms v2/Alphabets/Y.spz2bp",
+            "iteration": 1
+        },
+        "Z. Archive/Platforms v2/Alphabets/U.spz2bp": {
+            "name": "U",
+            "path": "Z. Archive/Platforms v2/Alphabets/U.spz2bp",
+            "iteration": 1
+        },
+        "Z. Archive/Platforms v2/Alphabets/D.spz2bp": {
+            "name": "D",
+            "path": "Z. Archive/Platforms v2/Alphabets/D.spz2bp",
+            "iteration": 1
+        },
+        "Z. Archive/Platforms v2/Alphabets/H.spz2bp": {
+            "name": "H",
+            "path": "Z. Archive/Platforms v2/Alphabets/H.spz2bp",
+            "iteration": 1
+        },
+        "Z. Archive/Platforms v2/Alphabets/P.spz2bp": {
+            "name": "P",
+            "path": "Z. Archive/Platforms v2/Alphabets/P.spz2bp",
+            "iteration": 1
+        },
+        "Z. Archive/Platforms v2/Alphabets/J.spz2bp": {
+            "name": "J",
+            "path": "Z. Archive/Platforms v2/Alphabets/J.spz2bp",
+            "iteration": 1
+        },
+        "Z. Archive/Platforms v2/Alphabets/F.spz2bp": {
+            "name": "F",
+            "path": "Z. Archive/Platforms v2/Alphabets/F.spz2bp",
+            "iteration": 1
+        },
+        "Z. Archive/Platforms v2/Alphabets/R.spz2bp": {
+            "name": "R",
+            "path": "Z. Archive/Platforms v2/Alphabets/R.spz2bp",
+            "iteration": 1
+        },
+        "Z. Archive/Platforms v2/Alphabets/V.spz2bp": {
+            "name": "V",
+            "path": "Z. Archive/Platforms v2/Alphabets/V.spz2bp",
+            "iteration": 1
+        },
+        "Z. Archive/Platforms v2/Alphabets/Z.spz2bp": {
+            "name": "Z",
+            "path": "Z. Archive/Platforms v2/Alphabets/Z.spz2bp",
+            "iteration": 1
+        },
+        "Z. Archive/Platforms v2/Alphabets/B.spz2bp": {
+            "name": "B",
+            "path": "Z. Archive/Platforms v2/Alphabets/B.spz2bp",
+            "iteration": 1
+        },
+        "Z. Archive/Platforms v2/Alphabets/N.spz2bp": {
+            "name": "N",
+            "path": "Z. Archive/Platforms v2/Alphabets/N.spz2bp",
+            "iteration": 1
+        },
+        "Z. Archive/Platforms v2/Alphabets/X.spz2bp": {
+            "name": "X",
+            "path": "Z. Archive/Platforms v2/Alphabets/X.spz2bp",
+            "iteration": 1
+        },
+        "Z. Archive/Platforms v2/Alphabets/T.spz2bp": {
+            "name": "T",
+            "path": "Z. Archive/Platforms v2/Alphabets/T.spz2bp",
+            "iteration": 1
+        },
+        "Z. Archive/Platforms v2/Alphabets/L.spz2bp": {
+            "name": "L",
+            "path": "Z. Archive/Platforms v2/Alphabets/L.spz2bp",
+            "iteration": 1
+        },
+        "Z. Archive/Platforms v2/Numbers/7.spz2bp": {
+            "name": "7",
+            "path": "Z. Archive/Platforms v2/Numbers/7.spz2bp",
+            "iteration": 1
+        },
+        "Z. Archive/Platforms v2/Numbers/9.spz2bp": {
+            "name": "9",
+            "path": "Z. Archive/Platforms v2/Numbers/9.spz2bp",
+            "iteration": 1
+        },
+        "Z. Archive/Platforms v2/Numbers/5.spz2bp": {
+            "name": "5",
+            "path": "Z. Archive/Platforms v2/Numbers/5.spz2bp",
+            "iteration": 1
+        },
+        "Z. Archive/Platforms v2/Numbers/1.spz2bp": {
+            "name": "1",
+            "path": "Z. Archive/Platforms v2/Numbers/1.spz2bp",
+            "iteration": 1
+        },
+        "Z. Archive/Platforms v2/Numbers/3.spz2bp": {
+            "name": "3",
+            "path": "Z. Archive/Platforms v2/Numbers/3.spz2bp",
+            "iteration": 1
+        },
+        "Z. Archive/Platforms v2/Numbers/6.spz2bp": {
+            "name": "6",
+            "path": "Z. Archive/Platforms v2/Numbers/6.spz2bp",
+            "iteration": 1
+        },
+        "Z. Archive/Platforms v2/Numbers/8.spz2bp": {
+            "name": "8",
+            "path": "Z. Archive/Platforms v2/Numbers/8.spz2bp",
+            "iteration": 1
+        },
+        "Z. Archive/Platforms v2/Numbers/4.spz2bp": {
+            "name": "4",
+            "path": "Z. Archive/Platforms v2/Numbers/4.spz2bp",
+            "iteration": 1
+        },
+        "Z. Archive/Platforms v2/Numbers/0.spz2bp": {
+            "name": "0",
+            "path": "Z. Archive/Platforms v2/Numbers/0.spz2bp",
+            "iteration": 1
+        },
+        "Z. Archive/Platforms v2/Numbers/2.spz2bp": {
+            "name": "2",
+            "path": "Z. Archive/Platforms v2/Numbers/2.spz2bp",
+            "iteration": 1
+        },
+        "Z. Archive/Platforms v2/Explorations/1x2 8x Diagonal Splitter Take 2.spz2bp": {
+            "name": "1x2 8x Diagonal Splitter Take 2",
+            "path": "Z. Archive/Platforms v2/Explorations/1x2 8x Diagonal Splitter Take 2.spz2bp",
+            "iteration": 1
+        },
+        "Z. Archive/Platforms v2/Explorations/1x2 8x Splitter Take 1.spz2bp": {
+            "name": "1x2 8x Splitter Take 1",
+            "path": "Z. Archive/Platforms v2/Explorations/1x2 8x Splitter Take 1.spz2bp",
+            "iteration": 1
+        },
+        "Z. Archive/Platforms v2/Archives/2x4 8x Extractors Floor 1 & 2.spz2bp": {
+            "name": "2x4 8x Extractors Floor 1 & 2",
+            "path": "Z. Archive/Platforms v2/Archives/2x4 8x Extractors Floor 1 & 2.spz2bp",
+            "iteration": 1
+        },
+        "Z. Archive/Platforms v2/Archives/1x2 8x Painter v1.0.spz2bp": {
+            "name": "1x2 8x Painter v1.0",
+            "path": "Z. Archive/Platforms v2/Archives/1x2 8x Painter v1.0.spz2bp",
+            "iteration": 1
+        },
+        "Z. Archive/Platforms v2/Machines/1x1 8x 1 Quater Cutter.spz2bp": {
+            "name": "1x1 8x 1 Quater Cutter",
+            "path": "Z. Archive/Platforms v2/Machines/1x1 8x 1 Quater Cutter.spz2bp",
+            "iteration": 1
+        },
+        "Z. Archive/Platforms v2/Machines/1x2 8x Painter v1.1.spz2bp": {
+            "name": "1x2 8x Painter v1.1",
+            "path": "Z. Archive/Platforms v2/Machines/1x2 8x Painter v1.1.spz2bp",
+            "iteration": 1
+        },
+        "Z. Archive/Platforms v2/Machines/1x2 16x Stacker.spz2bp": {
+            "name": "1x2 16x Stacker",
+            "path": "Z. Archive/Platforms v2/Machines/1x2 16x Stacker.spz2bp",
+            "iteration": 1
+        },
+        "Z. Archive/Platforms v2/Machines/1x2 8x Diagonal Splitter.spz2bp": {
+            "name": "1x2 8x Diagonal Splitter",
+            "path": "Z. Archive/Platforms v2/Machines/1x2 8x Diagonal Splitter.spz2bp",
+            "iteration": 1
+        },
+        "Z. Archive/Platforms v2/Machines/1x1 8x 3_4 Quater Cutter.spz2bp": {
+            "name": "1x1 8x 3_4 Quater Cutter",
+            "path": "Z. Archive/Platforms v2/Machines/1x1 8x 3_4 Quater Cutter.spz2bp",
+            "iteration": 1
+        },
+        "Z. Archive/Platforms v2/Machines/1x1 Trash Can.spz2bp": {
+            "name": "1x1 Trash Can",
+            "path": "Z. Archive/Platforms v2/Machines/1x1 Trash Can.spz2bp",
+            "iteration": 1
+        },
+        "Z. Archive/Platforms v2/Machines/1x2 8x Diagonal Cutter.spz2bp": {
+            "name": "1x2 8x Diagonal Cutter",
+            "path": "Z. Archive/Platforms v2/Machines/1x2 8x Diagonal Cutter.spz2bp",
+            "iteration": 1
+        },
+        "Z. Archive/Platforms v2/Train/8x Train Loader.spz2bp": {
+            "name": "8x Train Loader",
+            "path": "Z. Archive/Platforms v2/Train/8x Train Loader.spz2bp",
+            "iteration": 1
+        },
+        "Z. Archive/Platforms v2/Train/8x Fluid Loader.spz2bp": {
+            "name": "8x Fluid Loader",
+            "path": "Z. Archive/Platforms v2/Train/8x Fluid Loader.spz2bp",
+            "iteration": 1
+        },
+        "Z. Archive/Platforms v2/Train/8x Train Unloder.spz2bp": {
+            "name": "8x Train Unloder",
+            "path": "Z. Archive/Platforms v2/Train/8x Train Unloder.spz2bp",
+            "iteration": 1
+        },
+        "Z. Archive/Platforms v2/Extractors/12x Fluid Extractor.spz2bp": {
+            "name": "12x Fluid Extractor",
+            "path": "Z. Archive/Platforms v2/Extractors/12x Fluid Extractor.spz2bp",
+            "iteration": 1
+        },
+        "Z. Archive/Platforms v2/Extractors/8x Fluid Extractors.spz2bp": {
+            "name": "8x Fluid Extractors",
+            "path": "Z. Archive/Platforms v2/Extractors/8x Fluid Extractors.spz2bp",
+            "iteration": 1
+        },
+        "Z. Archive/Platforms v2/Extractors/8x Extractors.spz2bp": {
+            "name": "8x Extractors",
+            "path": "Z. Archive/Platforms v2/Extractors/8x Extractors.spz2bp",
+            "iteration": 1
+        },
+        "Z. Archive/Platforms v2/Rotators/1x1 8x 90 Rotator.spz2bp": {
+            "name": "1x1 8x 90 Rotator",
+            "path": "Z. Archive/Platforms v2/Rotators/1x1 8x 90 Rotator.spz2bp",
+            "iteration": 1
+        },
+        "Z. Archive/Platforms v2/Rotators/1x1 8x 180 Rotator.spz2bp": {
+            "name": "1x1 8x 180 Rotator",
+            "path": "Z. Archive/Platforms v2/Rotators/1x1 8x 180 Rotator.spz2bp",
+            "iteration": 1
+        },
+        "Z. Archive/Platforms v2/Rotators/1x1 8x 270 Rotator.spz2bp": {
+            "name": "1x1 8x 270 Rotator",
+            "path": "Z. Archive/Platforms v2/Rotators/1x1 8x 270 Rotator.spz2bp",
+            "iteration": 1
+        },
+        "Z. Archive/Platforms v2/v1/Transportation/4 Belts Step Down.spz2bp": {
+            "name": "4 Belts Step Down",
+            "path": "Z. Archive/Platforms v2/v1/Transportation/4 Belts Step Down.spz2bp",
+            "iteration": 1
+        },
+        "Z. Archive/Platforms v2/v1/Transportation/4 Belts Step Up.spz2bp": {
+            "name": "4 Belts Step Up",
+            "path": "Z. Archive/Platforms v2/v1/Transportation/4 Belts Step Up.spz2bp",
+            "iteration": 1
+        },
+        "Z. Archive/Platforms v2/v1/Transportation/Double Input Single Machine v2.spz2bp": {
+            "name": "Double Input Single Machine v2",
+            "path": "Z. Archive/Platforms v2/v1/Transportation/Double Input Single Machine v2.spz2bp",
+            "iteration": 1
+        },
+        "Z. Archive/Platforms v2/v1/Transportation/4 belts Rotator.spz2bp": {
+            "name": "4 belts Rotator",
+            "path": "Z. Archive/Platforms v2/v1/Transportation/4 belts Rotator.spz2bp",
+            "iteration": 1
+        },
+        "Z. Archive/Platforms v2/v1/Platforms/1x1 4x Painter v1.0.spz2bp": {
+            "name": "1x1 4x Painter v1.0",
+            "path": "Z. Archive/Platforms v2/v1/Platforms/1x1 4x Painter v1.0.spz2bp",
+            "iteration": 1
+        },
+        "Z. Archive/Platforms v2/v1/Platforms/1x1 4x Painter Floor 2 Paint Floor 1 Output.spz2bp": {
+            "name": "1x1 4x Painter Floor 2 Paint Floor 1 Output",
+            "path": "Z. Archive/Platforms v2/v1/Platforms/1x1 4x Painter Floor 2 Paint Floor 1 Output.spz2bp",
+            "iteration": 1
+        },
+        "Z. Archive/Platforms v2/v1/Platforms/1x1 8 Belts Stackers.spz2bp": {
+            "name": "1x1 8 Belts Stackers",
+            "path": "Z. Archive/Platforms v2/v1/Platforms/1x1 8 Belts Stackers.spz2bp",
+            "iteration": 1
+        },
+        "Z. Archive/Platforms v2/v1/Platforms/1x1 4x Painter Floor 1 Paint Floor 1 Output v1.1.spz2bp": {
+            "name": "1x1 4x Painter Floor 1 Paint Floor 1 Output v1.1",
+            "path": "Z. Archive/Platforms v2/v1/Platforms/1x1 4x Painter Floor 1 Paint Floor 1 Output v1.1.spz2bp",
+            "iteration": 1
+        },
+        "Z. Archive/Platforms v2/v1/Platforms/1x4 4x Fluid Extactors Floor 1.spz2bp": {
+            "name": "1x4 4x Fluid Extactors Floor 1",
+            "path": "Z. Archive/Platforms v2/v1/Platforms/1x4 4x Fluid Extactors Floor 1.spz2bp",
+            "iteration": 1
+        },
+        "Z. Archive/Platforms v2/v1/Platforms/Belts v1.0.spz2bp": {
+            "name": "Belts v1.0",
+            "path": "Z. Archive/Platforms v2/v1/Platforms/Belts v1.0.spz2bp",
+            "iteration": 1
+        },
+        "Z. Archive/Platforms v2/v1/Platforms/1x4 4x Extractors Floor 2.spz2bp": {
+            "name": "1x4 4x Extractors Floor 2",
+            "path": "Z. Archive/Platforms v2/v1/Platforms/1x4 4x Extractors Floor 2.spz2bp",
+            "iteration": 1
+        },
+        "Z. Archive/Platforms v2/v1/Platforms/1x4 4x Fluid Extactors Floor 2.spz2bp": {
+            "name": "1x4 4x Fluid Extactors Floor 2",
+            "path": "Z. Archive/Platforms v2/v1/Platforms/1x4 4x Fluid Extactors Floor 2.spz2bp",
+            "iteration": 1
+        },
+        "Z. Archive/Platforms v2/v1/Platforms/Piping v1.1.spz2bp": {
+            "name": "Piping v1.1",
+            "path": "Z. Archive/Platforms v2/v1/Platforms/Piping v1.1.spz2bp",
+            "iteration": 1
+        },
+        "Z. Archive/Platforms v2/v1/Platforms/1x1 4x Painter Floor 1 Paint Floor 2 Output.spz2bp": {
+            "name": "1x1 4x Painter Floor 1 Paint Floor 2 Output",
+            "path": "Z. Archive/Platforms v2/v1/Platforms/1x1 4x Painter Floor 1 Paint Floor 2 Output.spz2bp",
+            "iteration": 1
+        },
+        "Z. Archive/Platforms v2/v1/Platforms/1x1 4x Halving Machines.spz2bp": {
+            "name": "1x1 4x Halving Machines",
+            "path": "Z. Archive/Platforms v2/v1/Platforms/1x1 4x Halving Machines.spz2bp",
+            "iteration": 1
+        },
+        "Z. Archive/Platforms v2/v1/Platforms/1x4 4x Extractors Floor 1.spz2bp": {
+            "name": "1x4 4x Extractors Floor 1",
+            "path": "Z. Archive/Platforms v2/v1/Platforms/1x4 4x Extractors Floor 1.spz2bp",
+            "iteration": 1
+        },
+        "Z. Archive/Platforms v2/v1/Platforms/Piping.spz2bp": {
+            "name": "Piping",
+            "path": "Z. Archive/Platforms v2/v1/Platforms/Piping.spz2bp",
+            "iteration": 1
+        },
+        "Z. Archive/Platforms v2/v1/Just Machines/1x8 Stacker.spz2bp": {
+            "name": "1x8 Stacker",
+            "path": "Z. Archive/Platforms v2/v1/Just Machines/1x8 Stacker.spz2bp",
+            "iteration": 1
+        },
+        "Z. Archive/Platforms v2/v1/Historical Factories/CrCuRuRu:CrCuCuCu Factory.spz2bp": {
+            "name": "CrCuRuRu:CrCuCuCu Factory",
+            "path": "Z. Archive/Platforms v2/v1/Historical Factories/CrCuRuRu:CrCuCuCu Factory.spz2bp",
+            "iteration": 1
+        },
+        "Z. Archive/Platforms v2/v1/Historical Factories/Halfzies Rotated Stacked.spz2bp": {
+            "name": "Halfzies Rotated Stacked",
+            "path": "Z. Archive/Platforms v2/v1/Historical Factories/Halfzies Rotated Stacked.spz2bp",
+            "iteration": 1
+        },
+        "Z. Archive/Platforms v2/v1/Historical Factories/Diagonal Corners of Stacked Sqaure & Circle.spz2bp": {
+            "name": "Diagonal Corners of Stacked Sqaure & Circle",
+            "path": "Z. Archive/Platforms v2/v1/Historical Factories/Diagonal Corners of Stacked Sqaure & Circle.spz2bp",
+            "iteration": 1
+        },
+        "Z. Archive/Platforms v2/v1/Historical Factories/Good Bye Big Factory!.spz2bp": {
+            "name": "Good Bye Big Factory!",
+            "path": "Z. Archive/Platforms v2/v1/Historical Factories/Good Bye Big Factory!.spz2bp",
+            "iteration": 1
+        },
+        "Z. Archive/Platforms v2/v1/Machines/Painter v2.1.spz2bp": {
+            "name": "Painter v2.1",
+            "path": "Z. Archive/Platforms v2/v1/Machines/Painter v2.1.spz2bp",
+            "iteration": 1
+        },
+        "Z. Archive/Platforms v2/v1/Machines/3 | 4 Three Quaters Machine v2.1 (100% OE Zero Waste 75% IE).spz2bp": {
+            "name": "3 | 4 Three Quaters Machine v2.1 (100% OE Zero Waste 75% IE)",
+            "path": "Z. Archive/Platforms v2/v1/Machines/3 | 4 Three Quaters Machine v2.1 (100% OE Zero Waste 75% IE).spz2bp",
+            "iteration": 1
+        },
+        "Z. Archive/Platforms v2/v1/Machines/4 Belts Halving Machines.spz2bp": {
+            "name": "4 Belts Halving Machines",
+            "path": "Z. Archive/Platforms v2/v1/Machines/4 Belts Halving Machines.spz2bp",
+            "iteration": 1
+        },
+        "Z. Archive/Platforms v2/v1/Machines/Diagonal Corners v1.0.spz2bp": {
+            "name": "Diagonal Corners v1.0",
+            "path": "Z. Archive/Platforms v2/v1/Machines/Diagonal Corners v1.0.spz2bp",
+            "iteration": 1
+        },
+        "Z. Archive/Platforms v2/v1/Machines/1 | 2 Halves Machines v1.1.spz2bp": {
+            "name": "1 | 2 Halves Machines v1.1",
+            "path": "Z. Archive/Platforms v2/v1/Machines/1 | 2 Halves Machines v1.1.spz2bp",
+            "iteration": 1
+        },
+        "Z. Archive/Platforms v2/v1/Machines/Quarter Machine v1.2 (100% ZW).spz2bp": {
+            "name": "Quarter Machine v1.2 (100% ZW)",
+            "path": "Z. Archive/Platforms v2/v1/Machines/Quarter Machine v1.2 (100% ZW).spz2bp",
+            "iteration": 1
+        },
+        "Z. Archive/Platforms v2/v1/Main Base/Main Base Completing Milestone 5.spz2bp": {
+            "name": "Main Base Completing Milestone 5",
+            "path": "Z. Archive/Platforms v2/v1/Main Base/Main Base Completing Milestone 5.spz2bp",
+            "iteration": 1
+        },
+        "Z. Archive/Platforms v2/v1/Extractors/Extracter v2 | Floor 2.spz2bp": {
+            "name": "Extracter v2 | Floor 2",
+            "path": "Z. Archive/Platforms v2/v1/Extractors/Extracter v2 | Floor 2.spz2bp",
+            "iteration": 1
+        },
+        "Z. Archive/Platforms v2/v1/Extractors/Extractor v2 | Floor 1.spz2bp": {
+            "name": "Extractor v2 | Floor 1",
+            "path": "Z. Archive/Platforms v2/v1/Extractors/Extractor v2 | Floor 1.spz2bp",
+            "iteration": 1
+        },
+        "Z. Archive/Platforms v2/v1/Extractors/Fluid Extractor Floor 1.spz2bp": {
+            "name": "Fluid Extractor Floor 1",
+            "path": "Z. Archive/Platforms v2/v1/Extractors/Fluid Extractor Floor 1.spz2bp",
+            "iteration": 1
+        },
+        "Z. Archive/Platforms v2/v1/Extractors/Fluid Extractors Floor 2.spz2bp": {
+            "name": "Fluid Extractors Floor 2",
+            "path": "Z. Archive/Platforms v2/v1/Extractors/Fluid Extractors Floor 2.spz2bp",
+            "iteration": 1
+        },
+        "Z. Archive/Platforms v2/v1/Transportation/Archives/Double Input Single Machine v1.spz2bp": {
+            "name": "Double Input Single Machine v1",
+            "path": "Z. Archive/Platforms v2/v1/Transportation/Archives/Double Input Single Machine v1.spz2bp",
+            "iteration": 1
+        },
+        "Z. Archive/Platforms v2/v1/Transportation/Archives/Double Input Single Machine.spz2bp": {
+            "name": "Double Input Single Machine",
+            "path": "Z. Archive/Platforms v2/v1/Transportation/Archives/Double Input Single Machine.spz2bp",
+            "iteration": 1
+        },
+        "Z. Archive/Platforms v2/v1/Machines/Archives/Minor Junior Lv. 2.spz2bp": {
+            "name": "Minor Junior Lv. 2",
+            "path": "Z. Archive/Platforms v2/v1/Machines/Archives/Minor Junior Lv. 2.spz2bp",
+            "iteration": 1
+        },
+        "Z. Archive/Platforms v2/v1/Machines/Archives/Half Splitters.spz2bp": {
+            "name": "Half Splitters",
+            "path": "Z. Archive/Platforms v2/v1/Machines/Archives/Half Splitters.spz2bp",
+            "iteration": 1
+        },
+        "Z. Archive/Platforms v2/v1/Machines/Archives/3 Quaters Machine.spz2bp": {
+            "name": "3 Quaters Machine",
+            "path": "Z. Archive/Platforms v2/v1/Machines/Archives/3 Quaters Machine.spz2bp",
+            "iteration": 1
+        },
+        "Z. Archive/Platforms v2/v1/Machines/Archives/Painter Machine.spz2bp": {
+            "name": "Painter Machine",
+            "path": "Z. Archive/Platforms v2/v1/Machines/Archives/Painter Machine.spz2bp",
+            "iteration": 1
+        },
+        "Z. Archive/Platforms v2/v1/Machines/Archives/Diagonal Corners Swapper v1.1.spz2bp": {
+            "name": "Diagonal Corners Swapper v1.1",
+            "path": "Z. Archive/Platforms v2/v1/Machines/Archives/Diagonal Corners Swapper v1.1.spz2bp",
+            "iteration": 1
+        },
+        "Z. Archive/Platforms v2/v1/Machines/Archives/Quaters Machine v1.0 (100% IE OE ZW).spz2bp": {
+            "name": "Quaters Machine v1.0 (100% IE OE ZW)",
+            "path": "Z. Archive/Platforms v2/v1/Machines/Archives/Quaters Machine v1.0 (100% IE OE ZW).spz2bp",
+            "iteration": 1
+        },
+        "Z. Archive/Platforms v2/v1/Machines/Archives/Painter v2.0.spz2bp": {
+            "name": "Painter v2.0",
+            "path": "Z. Archive/Platforms v2/v1/Machines/Archives/Painter v2.0.spz2bp",
+            "iteration": 1
+        },
+        "Z. Archive/Platforms v2/v1/Machines/Archives/Painter v1.1.spz2bp": {
+            "name": "Painter v1.1",
+            "path": "Z. Archive/Platforms v2/v1/Machines/Archives/Painter v1.1.spz2bp",
+            "iteration": 1
+        },
+        "Z. Archive/Platforms v2/v1/Machines/Archives/Miner Junior.spz2bp": {
+            "name": "Miner Junior",
+            "path": "Z. Archive/Platforms v2/v1/Machines/Archives/Miner Junior.spz2bp",
+            "iteration": 1
+        },
+        "Z. Archive/Platforms v2/v1/Machines/Archives/Quater to Half.spz2bp": {
+            "name": "Quater to Half",
+            "path": "Z. Archive/Platforms v2/v1/Machines/Archives/Quater to Half.spz2bp",
+            "iteration": 1
+        },
+        "Z. Archive/Platforms v2/v1/Machines/Archives/3 | 4 Three Quaters Machine v1.0 (100% IE 66% OE 25% Waste).spz2bp": {
+            "name": "3 | 4 Three Quaters Machine v1.0 (100% IE 66% OE 25% Waste)",
+            "path": "Z. Archive/Platforms v2/v1/Machines/Archives/3 | 4 Three Quaters Machine v1.0 (100% IE 66% OE 25% Waste).spz2bp",
+            "iteration": 1
+        },
+        "Z. Archive/Platforms v2/v1/Machines/Archives/Diagonal Corners Swapper v1.0.spz2bp": {
+            "name": "Diagonal Corners Swapper v1.0",
+            "path": "Z. Archive/Platforms v2/v1/Machines/Archives/Diagonal Corners Swapper v1.0.spz2bp",
+            "iteration": 1
+        },
+        "Z. Archive/Platforms v2/v1/Machines/Archives/1 | 4 Quater Machine (Ratio: 1 to 4).spz2bp": {
+            "name": "1 | 4 Quater Machine (Ratio: 1 to 4)",
+            "path": "Z. Archive/Platforms v2/v1/Machines/Archives/1 | 4 Quater Machine (Ratio: 1 to 4).spz2bp",
+            "iteration": 1
+        },
+        "Z. Archive/Platforms v2/v1/Machines/Archives/1 | 2 Halves Machines v1.0.spz2bp": {
+            "name": "1 | 2 Halves Machines v1.0",
+            "path": "Z. Archive/Platforms v2/v1/Machines/Archives/1 | 2 Halves Machines v1.0.spz2bp",
+            "iteration": 1
+        },
+        "Z. Archive/Platforms v2/v1/Machines/Archives/Missing a quater.spz2bp": {
+            "name": "Missing a quater",
+            "path": "Z. Archive/Platforms v2/v1/Machines/Archives/Missing a quater.spz2bp",
+            "iteration": 1
+        }
+    }
+}
