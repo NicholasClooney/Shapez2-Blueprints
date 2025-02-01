@@ -1019,6 +1019,11 @@
             "name": "Missing a quater",
             "path": "Z. Archive/Platforms v2/v1/Machines/Archives/Missing a quater.spz2bp",
             "iteration": 1
+        },
+        "0. 2025 Challenge Run/Machines/2 - Diagonals/1x2 8x Diagonal Cutter (16x Output).spz2bp": {
+            "name": "1x2 8x Diagonal Cutter (16x Output)",
+            "path": "0. 2025 Challenge Run/Machines/2 - Diagonals/1x2 8x Diagonal Cutter (16x Output).spz2bp",
+            "iteration": 1
         }
     }
 }
