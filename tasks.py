@@ -12,6 +12,7 @@ from invoke import Exit, task
 
 ROOT = Path(__file__).parent
 ITERATION_FILE = Path('iteration.json')
+VERSION_FILE = Path('version.json')
 
 
 BLUEPRINT_EXTENSION = ".spz2bp"
@@ -52,6 +53,12 @@ class GitFileStatus:
     @property
     def isBlueprintFile(self) -> bool:
         return self.path.suffix == BLUEPRINT_EXTENSION
+
+
+# Version
+@dataclass
+class Version:
+    version: str
 
 
 # Iteration Related Models
@@ -123,31 +130,74 @@ def version_and_commit(c):
         # secho(f"Message: {status.message}", fg="white")
 
 
-        commit = f"git commit -m '{status.message}'"
-
         secho(f"Status: {status.status}\nFile: {status.path.stem}")
 
-        stlyed_command = style(commit, fg="green")
-        confirmation = style(f"Update {ITERATION_FILE} and run the commit command? ", fg="white") + stlyed_command
+        with open(VERSION_FILE, 'r') as f:
+            version = Version(**json.load(f))
+
+        updated_version = update_version(version)
+
+
+
+        start = style(f"Please confirm the following:\n", bold=True)
+        update_iteration = style(f"- Update ", fg="white") + style(f"{ITERATION_FILE}\n", fg="cyan")
+        update_warehouse = style(f"- Update warehouse version to ", fg="white") + style(f"{updated_version.version}\n", fg="cyan")
+        run_command = style(f"- Run the following (stage, commit, tag) commands?\n", fg="white")
+
+        stage = f"git add {ITERATION_FILE} {VERSION_FILE}"
+        commit = f"git commit -m '{status.message}'"
+        tag = f"git tag v{updated_version.version} -m '{status.message}'"
+
+        stlyed_command = style(f"{stage} && {commit} && {tag}\n", fg="green")
+
+        push = style(f"- Push to remote", fg="white")
+
+        confirmation = (
+            start
+            + update_iteration
+            + update_warehouse
+            + run_command # Stage & Commit & tag
+            + stlyed_command
+            + push
+        )
 
         confirmed = confirm(confirmation, default=True)
 
-        if confirmed:
-            # 1. Update `iteration.json`
-            # 2. Add the json change to git
-            # 3. Prepare the commit message
+        if not confirmed:
+            secho("It's your choice. Totally understand.")
 
+            return
+
+
+        # 1. Update `iteration.json`
+        # 2. Update the version number
+        # 3. Add the changes to git
+        # 4. Commit
+        # 5. Tag
+        # 6. Push
+
+        with open(ITERATION_FILE, 'w') as f:
             updated = update(iteration, status)
+            json.dump(asdict(iteration), f, indent=4)
 
-            with open(ITERATION_FILE, 'w') as f:
-                json.dump(asdict(iteration), f, indent=4)
+        with open(VERSION_FILE, 'w') as f:
+            json.dump(asdict(updated_version), f, indent=4)
 
-            c.run(f"git add {ITERATION_FILE}")
+        c.run(stage)
 
-            c.run(commit)
+        c.run(commit)
 
+        c.run(tag)
+
+        c.run("git push")
 
     return
+
+
+def update_version(version) -> Version:
+    version.version = version.version +1
+
+    return version
 
 
 def update(iteration: Iteration, status: GitFileStatus) -> Iteration:
