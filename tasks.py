@@ -6,7 +6,7 @@ from enum import Enum
 from pathlib import Path
 
 
-from click import confirm, secho, style
+from click import confirm, prompt, secho, style
 from invoke import Exit, task
 
 
@@ -168,6 +168,11 @@ def version_and_commit(c):
 
             return
 
+        custom_message = prompt("Feel free to add a custom message to your commit and tag", type=str, default=None)
+
+        if custom_message:
+            commit = f"git commit -m '{status.message}\n\n{custom_message}'"
+            tag = f"git tag v{updated_version.version} -m '{status.message}\n\n{custom_message}'"
 
         # 1. Update `iteration.json`
         # 2. Update the version number
