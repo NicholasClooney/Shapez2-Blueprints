@@ -17,6 +17,9 @@ ITERATION_FILE = Path('iteration.json')
 BLUEPRINT_EXTENSION = ".spz2bp"
 
 
+FIRST_ITERATION_NUMBER = 1
+
+
 # Extensions
 
 
@@ -58,7 +61,7 @@ class GitFileStatus:
 class BlueprintIterationModel:
     name: str
     path: str # JSON serialization does not support `pathlib.Path`
-    iteration: int = 1
+    iteration: int = FIRST_ITERATION_NUMBER
 
 
 # The `iteration.json` file
@@ -162,7 +165,7 @@ def update(iteration: Iteration, status: GitFileStatus) -> Iteration:
         iteration_number += 1
     else:
         secho(f"Creating a new iteration entry for {status.path.stem}")
-        iteration_number = 0
+        iteration_number = FIRST_ITERATION_NUMBER
 
     blueprint_iteration_model = BlueprintIterationModel(
         status.path.stem, # name
