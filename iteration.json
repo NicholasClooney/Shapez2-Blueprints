@@ -1029,6 +1029,11 @@
             "name": "1x2 8x Cutter (North - South Split & North - East Output)",
             "path": "0. 2025 Challenge Run/Machines/2 - Halves/1x2 8x Cutter (North - South Split & North - East Output).spz2bp",
             "iteration": 1
+        },
+        "0. 2025 Challenge Run/Mega Structures/White Color Mixing & Painting Station (ABCA).spz2bp": {
+            "name": "White Color Mixing & Painting Station (ABCA)",
+            "path": "0. 2025 Challenge Run/Mega Structures/White Color Mixing & Painting Station (ABCA).spz2bp",
+            "iteration": 1
         }
     }
 }
