@@ -1044,6 +1044,11 @@
             "name": "4+4 Twin Color Fluid Transfer Station (Interlaced - ABABABAB)",
             "path": "0. 2025 Challenge Run/Archive/4+4 Twin Color Fluid Transfer Station (Interlaced - ABABABAB).spz2bp",
             "iteration": 1
+        },
+        "0. 2025 Challenge Run/Archive/4+4 Twin Color Fluid Transfer Station (Sequential - AAAABBBB).spz2bp": {
+            "name": "4+4 Twin Color Fluid Transfer Station (Sequential - AAAABBBB)",
+            "path": "0. 2025 Challenge Run/Archive/4+4 Twin Color Fluid Transfer Station (Sequential - AAAABBBB).spz2bp",
+            "iteration": 1
         }
     }
 }
