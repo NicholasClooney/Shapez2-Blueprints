@@ -1149,6 +1149,11 @@
             "name": "1x1 12x 90 CCW Rotator",
             "path": "0. 2025 Challenge Run/Transport/Shape/1x1 12x 90 CCW Rotator.spz2bp",
             "iteration": 1
+        },
+        "0. 2025 Challenge Run/Transport/Shape/1x1 12x 90 CW Rotator.spz2bp": {
+            "name": "1x1 12x 90 CW Rotator",
+            "path": "0. 2025 Challenge Run/Transport/Shape/1x1 12x 90 CW Rotator.spz2bp",
+            "iteration": 1
         }
     }
 }
