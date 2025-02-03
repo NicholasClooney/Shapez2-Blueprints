@@ -1159,6 +1159,11 @@
             "name": "1x1 12x12 Shapes Intersection",
             "path": "0. 2025 Challenge Run/Transport/Shape/1x1 12x12 Shapes Intersection.spz2bp",
             "iteration": 1
+        },
+        "0. 2025 Challenge Run/Machines/2x2 12x Shapes 24x Fluid Crystal Generator.spz2bp": {
+            "name": "2x2 12x Shapes 24x Fluid Crystal Generator",
+            "path": "0. 2025 Challenge Run/Machines/2x2 12x Shapes 24x Fluid Crystal Generator.spz2bp",
+            "iteration": 1
         }
     }
 }
