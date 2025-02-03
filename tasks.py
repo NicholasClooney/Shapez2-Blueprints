@@ -6,7 +6,7 @@ from enum import Enum
 from pathlib import Path
 
 
-from click import confirm, prompt, secho, style
+from click import Abort, confirm, prompt, secho, style
 from invoke import Exit, task
 
 
@@ -29,14 +29,19 @@ FIRST_ITERATION_NUMBER = 1
 
 class GitStatus(Enum):
     ADDED = "A"
+    DELETED = "D"
     MODIFIED = "M"
+    RENAME = "R"
     UNTRACKED = "??"
 
     @property
     def message(self) -> str:
         commit_message = {
             "A": "Add",
+            "D": "Delete",
             "M": "Update",
+            "R": "Move|Rename",
+            "??": "Add",
         }
 
         return commit_message[self.value]
@@ -84,7 +89,7 @@ class Iteration:
 
 
 @task
-def version_and_commit(c):
+def version_and_commit(c, staged_only=False):
     """
     Currently it only handles addition and updates.
     It does NOT handle renames yet.
@@ -98,8 +103,19 @@ def version_and_commit(c):
     secho("git status", bold=True)
     for line in output.splitlines():
         # First 2 chararcters are always the status. The rest is the path.
-        status, path = line[:2].strip(), line[3:]
+        status, path = line[:2], line[3:]
 
+        if staged_only:
+            if status[0] != ' ':
+                status = status.strip()
+            else:
+                secho(f"Skipping non staged change {path}", fg="black")
+                continue
+        else:
+            status = status.strip()
+
+        if "->" in path:
+            path = path.split("->")[1].strip()
         path = Path(path.strip('"'))
         status = GitStatus(status)
 
@@ -107,7 +123,7 @@ def version_and_commit(c):
 
         statuses.append(git_file_status)
 
-        secho(f"File: {git_file_status.path}, Status: {git_file_status.status}", fg="black")
+        secho(f"File: {git_file_status.path}, Status: {git_file_status.status}")
 
     # Read in `iteration.json`
     with open(ITERATION_FILE) as f:
@@ -121,36 +137,42 @@ def version_and_commit(c):
     filtered = [
             status for status
             in statuses
-            if status.status.value != "??" and status.path.suffix == BLUEPRINT_EXTENSION
+            if status.path.suffix == BLUEPRINT_EXTENSION
     ]
 
-    secho(f"Found {len(filtered)} changes (currently tracked in git)", bold=True)
-    for status in filtered:
+    secho(f"Found {len(filtered)} changed blueprints\n", bold=True)
+
+    for index, status in enumerate(filtered):
         # secho(f"File: {status.path.stem}, Status: {status.status}", fg="white")
         # secho(f"Message: {status.message}", fg="white")
 
 
-        secho(f"Status: {status.status}\nFile: {status.path.stem}")
+        secho(f"No. {index+1}: {status.status.message} {status.path.stem}\n", fg="white")
 
         with open(VERSION_FILE, 'r') as f:
             version = Version(**json.load(f))
 
         updated_version = update_version(version)
 
-
+        try:
+            custom_message = prompt("Feel free to add a custom message to your commit and tag", type=str, default="")
+        except Abort:
+            secho("Leaving early...")
+            return
 
         start = style(f"Please confirm the following:\n", bold=True)
         update_iteration = style(f"- Update ", fg="white") + style(f"{ITERATION_FILE}\n", fg="cyan")
         update_warehouse = style(f"- Update warehouse version to ", fg="white") + style(f"{updated_version.version}\n", fg="cyan")
         run_command = style(f"- Run the following (stage, commit, tag) commands?\n", fg="white")
 
-        stage = f"git add {ITERATION_FILE} {VERSION_FILE}"
-        commit = f"git commit -m '{status.message}'"
-        tag = f"git tag v{updated_version.version} -m '{status.message}'"
+        stage = f"git add {ITERATION_FILE} {VERSION_FILE} '{str(status.path)}'"
+        commit = f"git commit -m '{status.message}\n\n{custom_message}'"
+        tag = f"git tag v{updated_version.version} -m '{status.message}\n\n{custom_message}'"
+
 
         stlyed_command = style(f"{stage} && {commit} && {tag}\n", fg="green")
 
-        push = style(f"- Push to remote", fg="white")
+        push = style(f"- Push to remote\n", fg="white")
 
         confirmation = (
             start
@@ -161,18 +183,16 @@ def version_and_commit(c):
             + push
         )
 
-        confirmed = confirm(confirmation, default=True)
-
-        if not confirmed:
-            secho("It's your choice. Totally understand.")
-
+        try:
+            confirmed = confirm(confirmation, default=True)
+        except Abort:
+            secho("Leaving early...")
             return
 
-        custom_message = prompt("Feel free to add a custom message to your commit and tag", type=str, default=None)
+        if not confirmed:
+            secho("It's your choice. Totally understand.\n\n")
 
-        if custom_message:
-            commit = f"git commit -m '{status.message}\n\n{custom_message}'"
-            tag = f"git tag v{updated_version.version} -m '{status.message}\n\n{custom_message}'"
+            continue
 
         # 1. Update `iteration.json`
         # 2. Update the version number
