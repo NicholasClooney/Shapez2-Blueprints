@@ -1099,6 +1099,11 @@
             "name": "2x12 Color Mixer with Train Loaders",
             "path": "0. 2025 Challenge Run/Mega Structures/2x12 Color Mixer with Train Loaders.spz2bp",
             "iteration": 1
+        },
+        "0. 2025 Challenge Run/Mega Structures/2x2x12 Color Mixer (4x12 Output).spz2bp": {
+            "name": "2x2x12 Color Mixer (4x12 Output)",
+            "path": "0. 2025 Challenge Run/Mega Structures/2x2x12 Color Mixer (4x12 Output).spz2bp",
+            "iteration": 1
         }
     }
 }
