@@ -1194,6 +1194,11 @@
             "name": "1x2 12x Diagonal Cutter (24x West - East Output)",
             "path": "0. 2025 Challenge Run/Machines/2 - Diagonals/1x2 12x Diagonal Cutter (24x West - East Output).spz2bp",
             "iteration": 1
+        },
+        "0. 2025 Challenge Run/Machines/2x12 Swapper Merger (12x Output).spz2bp": {
+            "name": "2x12 Swapper Merger (12x Output)",
+            "path": "0. 2025 Challenge Run/Machines/2x12 Swapper Merger (12x Output).spz2bp",
+            "iteration": 1
         }
     }
 }
