@@ -1209,6 +1209,11 @@
             "name": "4x12 4x12 Diagonal Swapper Array",
             "path": "0. 2025 Challenge Run/Mega Structures/4x12 4x12 Diagonal Swapper Array.spz2bp",
             "iteration": 1
+        },
+        "0. 2025 Challenge Run/Mega Structures/4x12 x 4x12 Stacker Array.spz2bp": {
+            "name": "4x12 x 4x12 Stacker Array",
+            "path": "0. 2025 Challenge Run/Mega Structures/4x12 x 4x12 Stacker Array.spz2bp",
+            "iteration": 1
         }
     }
 }
