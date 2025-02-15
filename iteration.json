@@ -1199,6 +1199,11 @@
             "name": "2x12 Swapper Merger (12x Output)",
             "path": "0. 2025 Challenge Run/Machines/2x12 Swapper Merger (12x Output).spz2bp",
             "iteration": 1
+        },
+        "0. 2025 Challenge Run/Mega Structures/4x 1x2 Fluid Buffers.spz2bp": {
+            "name": "4x 1x2 Fluid Buffers",
+            "path": "0. 2025 Challenge Run/Mega Structures/4x 1x2 Fluid Buffers.spz2bp",
+            "iteration": 1
         }
     }
 }
